@@ -44,11 +44,11 @@ def demander_age(nom_personne):
 nom1 = demander_nom()
 nom2 = demander_nom()
 
-#Demander l"age
+# demander l"age
 age1 = demander_age(nom1)
 age2 = demander_age(nom2)
 # Afficher les informations
-#afficher_informations_personne
+# afficher_informations_personne
 
 # Afficher les resultats
 afficher_informations_personne(nom1, age1)
